@@ -1,7 +1,11 @@
 # Behaviour-Driven Development
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/knowledge-bdd.svg?style=flat-square)](https://github.com/descco-tools/knowledge-bdd/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-bdd.svg)](https://github.com/org-victorinox/knowledge-bdd/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-bdd.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-bdd.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-bdd.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-bdd/total.svg)
 
 ## BDD
 
@@ -23,7 +27,7 @@ Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/knowledge-bdd/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/knowledge-bdd/releases) for detailed changelog.
 
 ## License
 
